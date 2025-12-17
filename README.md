@@ -1,4 +1,8 @@
-## Hi there 👋
+I'm a Student studying in Bengaluru, India. I have hopes of becoming a Programmer, and thus am learning C, C++, HTML, and CSS, along with the Game Engine Unreal Engine.
+I also use Linux Fedora Workstation, along with Hyprland.
+I like watching Anime such as JuJutsu Kaisen and Demon Slayer. I also like playing games that run on Integrated Graphics, such as Hollow Knight and Disco Elysium, along with drawing.
+I'm currently being tortured by Exams, so i'm unable to do much coding in the meanwhile.
+I'm looking for a person who know's Blender to collaborate with me om Unreal Projects.
 
 <!--
 **KarthikUnreal/KarthikUnreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
