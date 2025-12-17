@@ -1,20 +1,36 @@
-I'm a Student studying in Bengaluru, India. I have hopes of becoming a Programmer, and thus am learning C, C++, HTML, and CSS, along with the Game Engine Unreal Engine.
-I also use Linux Fedora Workstation, along with Hyprland.
-I like watching Anime such as JuJutsu Kaisen and Demon Slayer. I also like playing games that run on Integrated Graphics, such as Hollow Knight and Disco Elysium, along with drawing.
-I'm currently being tortured by Exams, so i'm unable to do much coding in the meanwhile.
-I'm looking for a person who know's Blender to collaborate with me om Unreal Projects.
+I’m a student based in **Bengaluru, India**, working toward becoming a **Programmer** with a strong interest in **game development**.
 
-<!--
-**KarthikUnreal/KarthikUnreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I’m Learning -
+* **Programming Languages:**
+  * C
+  * C++
+* **Web Basics:**
+  * HTML
+  * CSS
+* **Game Development:**
+  * Unreal Engine
 
-Here are some ideas to get you started:
+## Computer Specs -
+* **OS:** Fedora Workstation 43 (Linux)
+* **Tiling Window Manager:** Hyprland
+* **Computer:** LENOVO IdeaCentre AIO 3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I prefer a minimalist stup that works than a bloated piece of junk.
+
+## Interests & Hobbies
+
+* **Anime:**
+  * Jujutsu Kaisen
+  * Demon Slayer
+* **Games (Integrated Graphics–friendly):**
+  * Hollow Knight
+  * Disco Elysium
+* **Creative Work:**
+  * Drawing
+  * Experimenting with random side projects
+
+## Current Situation
+
+Right now, I’m being **tortured viciously and cruely by exams**, so my coding time is limited. However, Christmas Vacation gives a good time to practice and hone my Coding.
+
+
