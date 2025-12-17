@@ -1,4 +1,4 @@
-I’m a student based in **Bengaluru, India**, working toward becoming a **Programmer** with a strong interest in **game development**.
+I’m a student based in Bengaluru, India, working toward becoming a Programmer with a strong interest in game development.
 
 ## What I’m Learning -
 * **Programming Languages:**
