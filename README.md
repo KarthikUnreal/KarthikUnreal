@@ -31,6 +31,7 @@ I prefer a minimalist stup that works than a bloated piece of junk.
 
 ## Current Situation
 
-Right now, I’m being **tortured viciously and cruely by exams**, so my coding time is limited. However, Christmas Vacation gives a good time to practice and hone my Coding.
+Right now, I’m being **tortured viciously and cruely by annual exams**, so my coding time is unlimited (lol).
+
 
 
