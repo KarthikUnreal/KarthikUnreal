@@ -4,9 +4,6 @@ I’m a student based in Bengaluru, India, working toward becoming a Programmer 
 * **Programming Languages:**
   * C
   * C++
-* **Web Basics:**
-  * HTML
-  * CSS
 * **Game Development:**
   * Unreal Engine
 
@@ -15,22 +12,10 @@ I’m a student based in Bengaluru, India, working toward becoming a Programmer 
 * **Tiling Window Manager:** Hyprland
 * **Computer:** LENOVO IdeaCentre AIO 3
 
-I prefer a minimalist stup that works than a bloated piece of junk.
-
 ## Interests & Hobbies
-
-* **Anime:**
-  * Jujutsu Kaisen
-  * Demon Slayer
-* **Games (Integrated Graphics–friendly):**
-  * Hollow Knight
-  * Disco Elysium
-* **Creative Work:**
-  * Drawing
-  * Experimenting with random side projects
+I like Coding (Obviously), Drawing, Reading, Jogging, and Playing Games.
 
 ## Current Situation
-
 Right now, I’m being **tortured viciously and cruely by annual exams**, so my coding time is unlimited (lol).
 
 
